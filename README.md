@@ -13,5 +13,6 @@ That manuscript describing analysis of crustal deformation in the western Great 
 Hammond, W. C., G. Blewitt, and C. Kreemer (2011), Block modeling of crustal deformation of the northern Walker Lane and Basin and Range from GPS velocities, J. Geophys. Res., 116, B04402, doi:10.1029/2010JB007817.  
 
 -Bill Hammond
+
 Nevada Geodetic Laboratory
 University of Nevada, Reno
