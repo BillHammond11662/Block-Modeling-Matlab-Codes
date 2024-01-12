@@ -1,0 +1,13 @@
+rese=0.4704
+resn=0.3512
+nrese=0.9821
+nresn=1.2491
+nrms=1.1235
+rms=0.4151
+vemad=0.1465
+vnmad=0.1364
+vemadnorm=0.6701
+vnmadnorm=0.5979
+chi2=151.4833
+dof=-66.0000
+chi2dof=-2.2952
