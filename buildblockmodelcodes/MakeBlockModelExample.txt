@@ -1,0 +1,1294 @@
+ 
+Building Block Model Geometries
+ 
+Iterating to repair fault segments 1
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+ 
+Iterating to combine blocks to simplify model: 1
+ 
+ 
+Removing blocks by score.
+Still have 294 to go.
+Still have 293 to go.
+Still have 292 to go.
+Still have 291 to go.
+Still have 290 to go.
+Still have 289 to go.
+Still have 288 to go.
+Still have 287 to go.
+Still have 286 to go.
+Still have 285 to go.
+Still have 284 to go.
+Still have 283 to go.
+Still have 282 to go.
+Still have 281 to go.
+Still have 280 to go.
+Still have 279 to go.
+Still have 278 to go.
+Still have 277 to go.
+Still have 276 to go.
+Still have 275 to go.
+Still have 274 to go.
+Still have 273 to go.
+Still have 272 to go.
+Still have 271 to go.
+Still have 270 to go.
+Still have 269 to go.
+Still have 268 to go.
+Still have 267 to go.
+Still have 266 to go.
+Still have 265 to go.
+Still have 264 to go.
+Still have 263 to go.
+Still have 262 to go.
+Still have 261 to go.
+Still have 260 to go.
+Still have 259 to go.
+Still have 258 to go.
+Still have 257 to go.
+Still have 256 to go.
+Still have 255 to go.
+Still have 254 to go.
+Still have 253 to go.
+Still have 252 to go.
+Still have 251 to go.
+Still have 250 to go.
+Still have 249 to go.
+Still have 248 to go.
+Still have 247 to go.
+Still have 246 to go.
+Still have 245 to go.
+Still have 244 to go.
+Still have 243 to go.
+Still have 242 to go.
+Still have 241 to go.
+Still have 240 to go.
+Still have 239 to go.
+Still have 238 to go.
+Still have 237 to go.
+Still have 236 to go.
+Still have 235 to go.
+Still have 234 to go.
+Still have 233 to go.
+Still have 232 to go.
+Still have 231 to go.
+Still have 230 to go.
+Still have 229 to go.
+Still have 228 to go.
+Still have 227 to go.
+Still have 226 to go.
+Still have 225 to go.
+Still have 224 to go.
+Still have 223 to go.
+Still have 222 to go.
+Still have 221 to go.
+Still have 220 to go.
+Still have 219 to go.
+Still have 218 to go.
+Still have 217 to go.
+Still have 216 to go.
+Still have 215 to go.
+Still have 214 to go.
+Still have 213 to go.
+Still have 212 to go.
+Still have 211 to go.
+Still have 210 to go.
+Still have 209 to go.
+Still have 208 to go.
+Still have 207 to go.
+Still have 206 to go.
+Still have 205 to go.
+Still have 204 to go.
+Still have 203 to go.
+Still have 202 to go.
+Still have 201 to go.
+Still have 200 to go.
+Still have 199 to go.
+Still have 198 to go.
+Still have 197 to go.
+Still have 196 to go.
+Still have 195 to go.
+Still have 194 to go.
+Still have 193 to go.
+Still have 192 to go.
+Still have 191 to go.
+Still have 190 to go.
+Still have 189 to go.
+Still have 188 to go.
+Still have 187 to go.
+Still have 186 to go.
+Still have 185 to go.
+Still have 184 to go.
+Still have 183 to go.
+Still have 182 to go.
+Still have 181 to go.
+Still have 180 to go.
+Still have 179 to go.
+Still have 178 to go.
+Still have 177 to go.
+Still have 176 to go.
+Still have 175 to go.
+Still have 174 to go.
+Still have 173 to go.
+Still have 172 to go.
+Still have 171 to go.
+Still have 170 to go.
+Still have 169 to go.
+Still have 168 to go.
+Still have 167 to go.
+Still have 166 to go.
+Still have 165 to go.
+Still have 164 to go.
+Still have 163 to go.
+Still have 162 to go.
+Still have 161 to go.
+Still have 160 to go.
+Still have 159 to go.
+Still have 158 to go.
+Still have 157 to go.
+Still have 156 to go.
+Still have 155 to go.
+Still have 154 to go.
+Still have 153 to go.
+Still have 152 to go.
+Still have 151 to go.
+Still have 150 to go.
+Still have 149 to go.
+Still have 148 to go.
+Still have 147 to go.
+Still have 146 to go.
+Still have 145 to go.
+Still have 144 to go.
+Still have 143 to go.
+Still have 142 to go.
+Still have 141 to go.
+Still have 140 to go.
+Still have 139 to go.
+Still have 138 to go.
+Still have 137 to go.
+Still have 136 to go.
+Still have 135 to go.
+Still have 134 to go.
+Still have 133 to go.
+Still have 132 to go.
+Still have 131 to go.
+Still have 130 to go.
+Still have 129 to go.
+Still have 128 to go.
+Still have 127 to go.
+Still have 126 to go.
+Still have 125 to go.
+Still have 124 to go.
+Still have 123 to go.
+Still have 122 to go.
+Still have 121 to go.
+Still have 120 to go.
+Still have 119 to go.
+Still have 118 to go.
+Still have 117 to go.
+Still have 116 to go.
+Still have 115 to go.
+Still have 114 to go.
+Still have 113 to go.
+Still have 112 to go.
+Still have 111 to go.
+Still have 110 to go.
+Still have 109 to go.
+Still have 108 to go.
+Still have 107 to go.
+Still have 106 to go.
+Still have 105 to go.
+Still have 104 to go.
+Still have 103 to go.
+Still have 102 to go.
+Still have 101 to go.
+Still have 100 to go.
+Still have 99 to go.
+Still have 98 to go.
+Still have 97 to go.
+Still have 96 to go.
+Still have 95 to go.
+Still have 94 to go.
+Still have 93 to go.
+Still have 92 to go.
+Still have 91 to go.
+Still have 90 to go.
+Still have 89 to go.
+Still have 88 to go.
+Still have 87 to go.
+Still have 86 to go.
+Still have 85 to go.
+Still have 84 to go.
+Still have 83 to go.
+Still have 82 to go.
+Still have 81 to go.
+Still have 80 to go.
+Still have 79 to go.
+Still have 78 to go.
+Still have 77 to go.
+Still have 76 to go.
+Still have 75 to go.
+Still have 74 to go.
+Still have 73 to go.
+Still have 72 to go.
+Still have 71 to go.
+Still have 70 to go.
+Still have 69 to go.
+Still have 68 to go.
+Still have 67 to go.
+Still have 66 to go.
+Still have 65 to go.
+Still have 64 to go.
+Still have 63 to go.
+Still have 62 to go.
+Still have 61 to go.
+Still have 60 to go.
+Still have 59 to go.
+Still have 58 to go.
+Still have 57 to go.
+Still have 56 to go.
+Still have 55 to go.
+Still have 54 to go.
+Still have 53 to go.
+Still have 52 to go.
+Still have 51 to go.
+Still have 50 to go.
+Still have 49 to go.
+Still have 48 to go.
+Still have 47 to go.
+Still have 46 to go.
+Still have 45 to go.
+Still have 44 to go.
+Still have 43 to go.
+Still have 42 to go.
+Still have 41 to go.
+Still have 40 to go.
+Still have 39 to go.
+Still have 38 to go.
+Still have 37 to go.
+Still have 36 to go.
+Still have 35 to go.
+Still have 34 to go.
+Still have 33 to go.
+Still have 32 to go.
+Still have 31 to go.
+Still have 30 to go.
+Still have 29 to go.
+Still have 28 to go.
+Still have 27 to go.
+Still have 26 to go.
+Still have 25 to go.
+Still have 24 to go.
+Still have 23 to go.
+Still have 22 to go.
+Still have 21 to go.
+Still have 20 to go.
+Still have 19 to go.
+Still have 18 to go.
+Still have 17 to go.
+Still have 16 to go.
+Still have 15 to go.
+Still have 14 to go.
+Still have 13 to go.
+Still have 12 to go.
+Still have 11 to go.
+Still have 10 to go.
+Still have 9 to go.
+Still have 8 to go.
+Still have 7 to go.
+Still have 6 to go.
+Still have 5 to go.
+Still have 4 to go.
+Still have 3 to go.
+Still have 2 to go.
+Still have 1 to go.
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 10
+ 
+Removing sliver boundary blocks.
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 11
+ 
+Removing blocks by size.
+Trying to remove small block #: b5
+   Actually removing small block #: b5
+Trying to remove small block #: b11
+   Actually removing small block #: b11
+Trying to remove small block #: b12
+   Actually removing small block #: b12
+Trying to remove small block #: b18
+   Actually removing small block #: b18
+Trying to remove small block #: b19
+   Actually removing small block #: b19
+Trying to remove small block #: b21
+   Actually removing small block #: b21
+Trying to remove small block #: b23
+   Actually removing small block #: b23
+Trying to remove small block #: b26
+Cannot find block b26, may have been combined already
+Trying to remove small block #: b37
+   Actually removing small block #: b37
+Trying to remove small block #: b40
+   Actually removing small block #: b40
+Trying to remove small block #: b43
+   Actually removing small block #: b43
+Trying to remove small block #: b45
+   Actually removing small block #: b45
+Trying to remove small block #: b51
+   Actually removing small block #: b51
+Trying to remove small block #: b53
+   Actually removing small block #: b53
+Trying to remove small block #: b54
+   Actually removing small block #: b54
+Trying to remove small block #: b55
+Cannot find block b55, may have been combined already
+Trying to remove small block #: b56
+   Actually removing small block #: b56
+Trying to remove small block #: b58
+Cannot find block b58, may have been combined already
+Trying to remove small block #: b59
+   Actually removing small block #: b59
+Trying to remove small block #: b63
+   Actually removing small block #: b63
+Trying to remove small block #: b64
+   Actually removing small block #: b64
+Trying to remove small block #: b68
+   Actually removing small block #: b68
+Trying to remove small block #: b70
+   Actually removing small block #: b70
+Trying to remove small block #: b73
+Cannot find block b73, may have been combined already
+Trying to remove small block #: b79
+   Actually removing small block #: b79
+Trying to remove small block #: b84
+   Actually removing small block #: b84
+Trying to remove small block #: b85
+   Actually removing small block #: b85
+Trying to remove small block #: b87
+Cannot find block b87, may have been combined already
+Trying to remove small block #: b89
+   Actually removing small block #: b89
+Trying to remove small block #: b92
+   Actually removing small block #: b92
+Trying to remove small block #: b93
+   Actually removing small block #: b93
+Trying to remove small block #: b94
+Cannot find block b94, may have been combined already
+Trying to remove small block #: b97
+   Actually removing small block #: b97
+Trying to remove small block #: b103
+   Actually removing small block #: b103
+Trying to remove small block #: b112
+   Actually removing small block #: b112
+Trying to remove small block #: b113
+   Actually removing small block #: b113
+Trying to remove small block #: b114
+Cannot find block b114, may have been combined already
+Trying to remove small block #: b125
+   Actually removing small block #: b125
+Trying to remove small block #: b137
+   Actually removing small block #: b137
+Trying to remove small block #: b140
+   Actually removing small block #: b140
+Trying to remove small block #: b142
+   Actually removing small block #: b142
+Trying to remove small block #: b144
+Cannot find block b144, may have been combined already
+Trying to remove small block #: b149
+   Actually removing small block #: b149
+Trying to remove small block #: b150
+   Actually removing small block #: b150
+Trying to remove small block #: b151
+Cannot find block b151, may have been combined already
+Trying to remove small block #: b154
+   Actually removing small block #: b154
+Trying to remove small block #: b159
+   Actually removing small block #: b159
+Trying to remove small block #: b162
+   Actually removing small block #: b162
+Trying to remove small block #: b165
+   Actually removing small block #: b165
+Trying to remove small block #: b168
+   Actually removing small block #: b168
+Trying to remove small block #: b170
+   Actually removing small block #: b170
+Trying to remove small block #: b178
+Cannot find block b178, may have been combined already
+Trying to remove small block #: b193
+   Actually removing small block #: b193
+Trying to remove small block #: b204
+   Actually removing small block #: b204
+Trying to remove small block #: b214
+   Actually removing small block #: b214
+Trying to remove small block #: b216
+   Actually removing small block #: b216
+Trying to remove small block #: b218
+Cannot find block b218, may have been combined already
+Trying to remove small block #: b219
+   Actually removing small block #: b219
+Trying to remove small block #: b223
+   Actually removing small block #: b223
+Trying to remove small block #: b230
+   Actually removing small block #: b230
+Trying to remove small block #: b236
+   Actually removing small block #: b236
+Trying to remove small block #: b238
+   Actually removing small block #: b238
+Trying to remove small block #: b239
+Cannot find block b239, may have been combined already
+Trying to remove small block #: b240
+   Actually removing small block #: b240
+Trying to remove small block #: b242
+   Actually removing small block #: b242
+Trying to remove small block #: b256
+   Actually removing small block #: b256
+Trying to remove small block #: b258
+   Actually removing small block #: b258
+Trying to remove small block #: b259
+Cannot find block b259, may have been combined already
+Trying to remove small block #: b260
+Cannot find block b260, may have been combined already
+Trying to remove small block #: b261
+   Actually removing small block #: b261
+Trying to remove small block #: b263
+   Actually removing small block #: b263
+Trying to remove small block #: b264
+   Actually removing small block #: b264
+Trying to remove small block #: b265
+Cannot find block b265, may have been combined already
+Trying to remove small block #: b266
+Cannot find block b266, may have been combined already
+Trying to remove small block #: b267
+   Actually removing small block #: b267
+Trying to remove small block #: b270
+Cannot find block b270, may have been combined already
+Trying to remove small block #: b275
+   Actually removing small block #: b275
+Trying to remove small block #: b277
+   Actually removing small block #: b277
+Trying to remove small block #: b278
+Cannot find block b278, may have been combined already
+Trying to remove small block #: b285
+Cannot find block b285, may have been combined already
+Trying to remove small block #: b286
+   Actually removing small block #: b286
+Trying to remove small block #: b290
+   Actually removing small block #: b290
+Trying to remove small block #: b293
+Cannot find block b293, may have been combined already
+Trying to remove small block #: b299
+   Actually removing small block #: b299
+Trying to remove small block #: b303
+   Actually removing small block #: b303
+Trying to remove small block #: b316
+   Actually removing small block #: b316
+Trying to remove small block #: b317
+Cannot find block b317, may have been combined already
+Trying to remove small block #: b318
+   Actually removing small block #: b318
+Trying to remove small block #: b320
+   Actually removing small block #: b320
+Trying to remove small block #: b324
+   Actually removing small block #: b324
+Trying to remove small block #: b326
+   Actually removing small block #: b326
+Trying to remove small block #: b328
+   Actually removing small block #: b328
+Trying to remove small block #: b329
+   Actually removing small block #: b329
+Trying to remove small block #: b331
+Cannot find block b331, may have been combined already
+Trying to remove small block #: b333
+   Actually removing small block #: b333
+Trying to remove small block #: b338
+   Actually removing small block #: b338
+Trying to remove small block #: b343
+   Actually removing small block #: b343
+Trying to remove small block #: b348
+   Actually removing small block #: b348
+Trying to remove small block #: b349
+   Actually removing small block #: b349
+Trying to remove small block #: b352
+   Actually removing small block #: b352
+Trying to remove small block #: b354
+   Actually removing small block #: b354
+Trying to remove small block #: b356
+Cannot find block b356, may have been combined already
+Trying to remove small block #: b359
+   Actually removing small block #: b359
+Trying to remove small block #: b360
+   Actually removing small block #: b360
+Trying to remove small block #: b372
+   Actually removing small block #: b372
+Trying to remove small block #: b381
+   Actually removing small block #: b381
+Trying to remove small block #: b384
+   Actually removing small block #: b384
+Trying to remove small block #: b386
+   Actually removing small block #: b386
+Trying to remove small block #: b389
+   Actually removing small block #: b389
+Trying to remove small block #: b391
+Cannot find block b391, may have been combined already
+Trying to remove small block #: b392
+   Actually removing small block #: b392
+Trying to remove small block #: b393
+   Actually removing small block #: b393
+Trying to remove small block #: b394
+   Actually removing small block #: b394
+Trying to remove small block #: b396
+   Actually removing small block #: b396
+Trying to remove small block #: b398
+   Actually removing small block #: b398
+Trying to remove small block #: b406
+   Actually removing small block #: b406
+Trying to remove small block #: b417
+   Actually removing small block #: b417
+Trying to remove small block #: b419
+   Actually removing small block #: b419
+Trying to remove small block #: b422
+   Actually removing small block #: b422
+Trying to remove small block #: b425
+   Actually removing small block #: b425
+Trying to remove small block #: b427
+   Actually removing small block #: b427
+Trying to remove small block #: b435
+   Actually removing small block #: b435
+Trying to remove small block #: b436
+   Actually removing small block #: b436
+Trying to remove small block #: b438
+   Actually removing small block #: b438
+Trying to remove small block #: b441
+   Actually removing small block #: b441
+Trying to remove small block #: b444
+   Actually removing small block #: b444
+Trying to remove small block #: b447
+   Actually removing small block #: b447
+Trying to remove small block #: b448
+   Actually removing small block #: b448
+Trying to remove small block #: b449
+   Actually removing small block #: b449
+Trying to remove small block #: b451
+   Actually removing small block #: b451
+Trying to remove small block #: b452
+Cannot find block b452, may have been combined already
+Trying to remove small block #: b453
+Cannot find block b453, may have been combined already
+Trying to remove small block #: b454
+   Actually removing small block #: b454
+Trying to remove small block #: b455
+   Actually removing small block #: b455
+Trying to remove small block #: b456
+Cannot find block b456, may have been combined already
+Trying to remove small block #: b457
+   Actually removing small block #: b457
+Trying to remove small block #: b458
+Cannot find block b458, may have been combined already
+Trying to remove small block #: b459
+Cannot find block b459, may have been combined already
+Trying to remove small block #: b460
+   Actually removing small block #: b460
+Trying to remove small block #: b463
+   Actually removing small block #: b463
+Trying to remove small block #: b465
+   Actually removing small block #: b465
+Trying to remove small block #: b467
+   Actually removing small block #: b467
+Trying to remove small block #: b468
+Cannot find block b468, may have been combined already
+Trying to remove small block #: b470
+Cannot find block b470, may have been combined already
+Trying to remove small block #: b477
+   Actually removing small block #: b477
+Trying to remove small block #: b478
+Cannot find block b478, may have been combined already
+Trying to remove small block #: b479
+   Actually removing small block #: b479
+Trying to remove small block #: b481
+   Actually removing small block #: b481
+Trying to remove small block #: b482
+   Actually removing small block #: b482
+Trying to remove small block #: b486
+   Actually removing small block #: b486
+Trying to remove small block #: b487
+   Actually removing small block #: b487
+Trying to remove small block #: b491
+   Actually removing small block #: b491
+Trying to remove small block #: b492
+Cannot find block b492, may have been combined already
+Trying to remove small block #: b494
+Cannot find block b494, may have been combined already
+Trying to remove small block #: b495
+   Actually removing small block #: b495
+Trying to remove small block #: b498
+   Actually removing small block #: b498
+Trying to remove small block #: b506
+   Actually removing small block #: b506
+Trying to remove small block #: CBb17_b322
+Cannot find block CBb17_b322, may have been combined already
+Trying to remove small block #: CBb20_b255
+   Actually removing small block #: CBb20_b255
+Trying to remove small block #: CBb235_CBb61_b233
+Cannot find block CBb235_CBb61_b233, may have been combined already
+Trying to remove small block #: CBb62_b234
+Cannot find block CBb62_b234, may have been combined already
+Trying to remove small block #: CBb116_b471
+   Actually removing small block #: CBb116_b471
+Trying to remove small block #: CBb118_b472
+Cannot find block CBb118_b472, may have been combined already
+Trying to remove small block #: CBb119_b145
+Cannot find block CBb119_b145, may have been combined already
+Trying to remove small block #: CBb182_b442
+Cannot find block CBb182_b442, may have been combined already
+Trying to remove small block #: CBb229_CBb7_b241
+   Actually removing small block #: CBb229_CBb7_b241
+Trying to remove small block #: CBb252_b254
+Cannot find block CBb252_b254, may have been combined already
+Trying to remove small block #: CBb273_CBb253_CBb257_CBb248_b272
+Cannot find block CBb273_CBb253_CBb257_CBb248_b272, may have been combined already
+Trying to remove small block #: CBb345_b358
+   Actually removing small block #: CBb345_b358
+Trying to remove small block #: CBCBb111_b397_CBb403_CBb395_CBb321_b405
+Cannot find block CBCBb111_b397_CBb403_CBb395_CBb321_b405, may have been combined already
+Trying to remove small block #: CBb469_b475
+Cannot find block CBb469_b475, may have been combined already
+Trying to remove small block #: CBb483_b484
+   Actually removing small block #: CBb483_b484
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 12
+ 
+Removing blocks by interior angles.
+Trying to remove block #: CBCBCBb207_CBb8_b180_CBb176_b205_CBb177_b203
+   Not removing block #: CBCBCBb207_CBb8_b180_CBb176_b205_CBb177_b203.  No candidate segments.
+Trying to remove block #: CBb250_CBCBb246_CBb243_b251_CBb244_b249
+   Not removing block #: CBb250_CBCBb246_CBb243_b251_CBb244_b249.  No candidate segments.
+Trying to remove block #: CBb347_CBb346_CBb86_CBb38_b65
+   Not removing block #: CBb347_CBb346_CBb86_CBb38_b65.  No candidate segments.
+Trying to remove block #: CBb507_CBb505_CBb504_CBb502_CBb499_CBb488_b490
+   Not removing block #: CBb507_CBb505_CBb504_CBb502_CBb499_CBb488_b490.  No candidate segments.
+Trying to remove block #: CBb23_CBb17_b322
+   Working on removing block #: CBb23_CBb17_b322
+Warning: Not combining block CBb23_CBb17_b322 Exceedence not reduced or removes fault.
+Trying to remove block #: CBb85_b87
+   Working on removing block #: CBb85_b87
+Warning: Not combining block CBb85_b87 Exceedence not reduced or removes fault.
+Trying to remove block #: CBb137_CBb226_CBb228_CBCBCBb224_CBb187_CBb2_b32_CBb198_CBCBb217
+   Working on removing block #: CBb137_CBb226_CBb228_CBCBCBb224_CBb187_CBb2_b32_CBb198_CBCBb217
+Warning: Not combining block CBb137_CBb226_CBb228_CBCBCBb224_CBb187_CBb2_b32_CBb198_CBCBb217 Exceedence not reduced or removes fault.
+Trying to remove block #: CBb165_CBb140_CBCBb143_CBb128_CBb30_CBb131_CBb29_b132_CBb133_CB
+   Working on removing block #: CBb165_CBb140_CBCBb143_CBb128_CBb30_CBb131_CBb29_b132_CBb133_CB
+Warning: Not combining block CBb165_CBb140_CBCBb143_CBb128_CBb30_CBb131_CBb29_b132_CBb133_CB Exceedence not reduced or removes fault.
+Trying to remove block #: CBb168_CBb154_CBb119_b145
+   Not removing block #: CBb168_CBb154_CBb119_b145.  No candidate segments.
+Trying to remove block #: CBb242_CBCBCBb304_CBb185_b310_CBCBb301_CBCBb302_CBb227_b292_CBb
+   Not removing block #: CBb242_CBCBCBb304_CBb185_b310_CBCBb301_CBCBb302_CBb227_b292_CBb.  No candidate segments.
+Trying to remove block #: CBb256_CBb273_CBb253_CBb257_CBb248_b272
+   Not removing block #: CBb256_CBb273_CBb253_CBb257_CBb248_b272.  No candidate segments.
+Trying to remove block #: CBb261_CBb45_CBb11_CBb62_b234
+   Working on removing block #: CBb261_CBb45_CBb11_CBb62_b234
+Warning: Not combining block CBb261_CBb45_CBb11_CBb62_b234 Exceedence not reduced or removes fault.
+Trying to remove block #: CBb263_CBb236_b239
+   Working on removing block #: CBb263_CBb236_b239
+Warning: Not combining block CBb263_CBb236_b239 Exceedence not reduced or removes fault.
+Trying to remove block #: CBb267_CBb19_b73
+   Working on removing block #: CBb267_CBb19_b73
+Warning: Not combining block CBb267_CBb19_b73 Exceedence not reduced or removes fault.
+Trying to remove block #: CBb275_CBb64_CBCBb284_CBb14_b72_CBCBb66_CBb288_CBb3_b60_CBb71_b
+   Not removing block #: CBb275_CBb64_CBCBb284_CBb14_b72_CBCBb66_CBb288_CBb3_b60_CBb71_b.  No candidate segments.
+Trying to remove block #: CBb286_CBCBb281_CBb81_b287_CBb289_CBb82_b282
+   Not removing block #: CBb286_CBCBb281_CBb81_b287_CBb289_CBb82_b282.  No candidate segments.
+Trying to remove block #: CBb290_CBCBb336_CBb78_CBb295_CBb49_CBb75_CBb39_b334_CBb335_CBb3
+   Not removing block #: CBb290_CBCBb336_CBb78_CBb295_CBb49_CBb75_CBb39_b334_CBb335_CBb3.  No candidate segments.
+Trying to remove block #: CBb299_CBb223_CBb70_b266
+   Not removing block #: CBb299_CBb223_CBb70_b266.  No candidate segments.
+Trying to remove block #: CBb303_CBb219_CBCBCBb200_CBb220_CBb175_CBb173_b179_CBb194_CBCBb
+   Not removing block #: CBb303_CBb219_CBCBCBb200_CBb220_CBb175_CBb173_b179_CBb194_CBCBb.  No candidate segments.
+Trying to remove block #: CBb316_CBb379_CBb109_b330
+   Not removing block #: CBb316_CBb379_CBb109_b330.  No candidate segments.
+Trying to remove block #: CBb338_CBb43_CBb44_b340
+   Not removing block #: CBb338_CBb43_CBb44_b340.  No candidate segments.
+Trying to remove block #: CBb348_CBb385_CBb383_CBCBCBb373_CBb380_CBb91_b99_CBb355_CBb351
+   Working on removing block #: CBb348_CBb385_CBb383_CBCBCBb373_CBb380_CBb91_b99_CBb355_CBb351
+Warning: Not combining block CBb348_CBb385_CBb383_CBCBCBb373_CBb380_CBb91_b99_CBb355_CBb351 Exceedence not reduced or removes fault.
+Trying to remove block #: CBb359_CBb354_CBCBCBb96_b361_CBb332_CBb364_CBb105_b342_CBb339_b
+   Not removing block #: CBb359_CBb354_CBCBCBb96_b361_CBb332_CBb364_CBb105_b342_CBb339_b.  No candidate segments.
+Trying to remove block #: CBb386_CBb384_CBb372_CBb360_CBb388_CBb390_CBCBCBb98_b374_CBb357
+   Not removing block #: CBb386_CBb384_CBb372_CBb360_CBb388_CBb390_CBCBCBb98_b374_CBb357.  No candidate segments.
+Trying to remove block #: CBb392_CBb326_CBb324_CBb320_CBb110_b318
+   Working on removing block #: CBb392_CBb326_CBb324_CBb320_CBb110_b318
+Warning: Not combining block CBb392_CBb326_CBb324_CBb320_CBb110_b318 Exceedence not reduced or removes fault.
+Trying to remove block #: CBb406_CBb394_CBCBb111_b397_CBb403_CBb395_CBb321_b405
+   Working on removing block #: CBb406_CBb394_CBCBb111_b397_CBb403_CBb395_CBb321_b405
+Warning: Not combining block CBb406_CBb394_CBCBb111_b397_CBb403_CBb395_CBb321_b405 Exceedence not reduced or removes fault.
+Trying to remove block #: CBb422_CBb417_CBb389_CBb500_CBb420_CBCBCBb407_CBb399_CBb122_CBb
+   Not removing block #: CBb422_CBb417_CBb389_CBb500_CBb420_CBCBCBb407_CBb399_CBb122_CBb.  No candidate segments.
+Trying to remove block #: CBb435_CBb393_CBb426_CBb434_CBb413_CBb430_CBb412_CBb415_CBCBb40
+   Not removing block #: CBb435_CBb393_CBb426_CBb434_CBb413_CBb430_CBb412_CBb415_CBCBb40.  No candidate segments.
+Trying to remove block #: CBb438_CBb436_CBb425_CBb398_CBb439_CBCBb100_b431_CBb115_b432
+   Not removing block #: CBb438_CBb436_CBb425_CBb398_CBb439_CBCBb100_b431_CBb115_b432.  No candidate segments.
+Trying to remove block #: CBb455_CBb444_CBb450_CBb445_CBb446_CBb440_CBb181_CBCBb174_CBb10
+   Not removing block #: CBb455_CBb444_CBb450_CBb445_CBb446_CBb440_CBb181_CBCBb174_CBb10.  No candidate segments.
+Trying to remove block #: CBb460_CBb427_CBb429_CBb424_b428
+   Not removing block #: CBb460_CBb427_CBb429_CBb424_b428.  No candidate segments.
+Trying to remove block #: CBb463_b470
+   Working on removing block #: CBb463_b470
+Warning: Not combining block CBb463_b470 Exceedence not reduced or removes fault.
+Trying to remove block #: CBb479_CBb118_b472
+   Working on removing block #: CBb479_CBb118_b472
+Warning: Not combining block CBb479_CBb118_b472 Exceedence not reduced or removes fault.
+Trying to remove block #: CBb486_CBb485_CBb462_b464
+   Not removing block #: CBb486_CBb485_CBb462_b464.  No candidate segments.
+Trying to remove block #: CBb506_CBb498_CBb495_CBb419_CBCBb36_b503_CBb501_CBb493_CBb497_C
+   Not removing block #: CBb506_CBb498_CBb495_CBb419_CBCBb36_b503_CBb501_CBb493_CBb497_C.  No candidate segments.
+Trying to remove block #: CBCBb20_b255_CBb63_CBb252_b254
+   Not removing block #: CBCBb20_b255_CBb63_CBb252_b254.  No candidate segments.
+Trying to remove block #: CBCBb116_b471_CBb447_b456
+   Not removing block #: CBCBb116_b471_CBb447_b456.  No candidate segments.
+Trying to remove block #: CBCBb229_CBb7_b241_CBb240_CBb231_b237
+   Not removing block #: CBCBb229_CBb7_b241_CBb240_CBb231_b237.  No candidate segments.
+Trying to remove block #: CBCBb345_b358_CBb349_CBb83_CBb22_b80
+   Not removing block #: CBCBb345_b358_CBb349_CBb83_CBb22_b80.  No candidate segments.
+Trying to remove block #: CBCBb483_b484_CBb481_CBb467_CBb473_CBb466_CBb480_CBb155_b476
+   Working on removing block #: CBCBb483_b484_CBb481_CBb467_CBb473_CBb466_CBb480_CBb155_b476
+Warning: Not combining block CBCBb483_b484_CBb481_CBb467_CBb473_CBb466_CBb480_CBb155_b476 Exceedence not reduced or removes fault.
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 13
+ 
+Removing blocks by Shape Parameter.
+Working on 1.00 blocks that have high R.
+Trying to remove high shape parameter block #: CBb85_b87
+   Working on removing block #: CBb85_b87
+   Testing exceedence on  seg #: 2
+   Testing exceedence on  seg #: 3
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 14
+ 
+Iterating to combine blocks to simplify model: 2
+ 
+ 
+Removing blocks by score.
+ 
+No need to remove any with score==0.
+ 
+Removing sliver boundary blocks.
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 15
+ 
+Removing blocks by size.
+Trying to remove small block #: block12
+   Actually removing small block #: block12
+Trying to remove small block #: block13
+   Actually removing small block #: block13
+Trying to remove small block #: block14
+   Actually removing small block #: block14
+Trying to remove small block #: block16
+   Actually removing small block #: block16
+Trying to remove small block #: block17
+   Actually removing small block #: block17
+Trying to remove small block #: block18
+   Actually removing small block #: block18
+Trying to remove small block #: block19
+   Actually removing small block #: block19
+Trying to remove small block #: block20
+   Actually removing small block #: block20
+Trying to remove small block #: block21
+   Actually removing small block #: block21
+Trying to remove small block #: block22
+   Actually removing small block #: block22
+Trying to remove small block #: block23
+   Actually removing small block #: block23
+Trying to remove small block #: block25
+   Actually removing small block #: block25
+Trying to remove small block #: block26
+   Actually removing small block #: block26
+Trying to remove small block #: block27
+   Actually removing small block #: block27
+Trying to remove small block #: block29
+Cannot find block block29, may have been combined already
+Trying to remove small block #: block31
+   Actually removing small block #: block31
+Trying to remove small block #: block33
+   Actually removing small block #: block33
+Trying to remove small block #: block34
+   Actually removing small block #: block34
+Trying to remove small block #: block35
+   Actually removing small block #: block35
+Trying to remove small block #: block37
+   Actually removing small block #: block37
+Trying to remove small block #: block38
+Cannot find block block38, may have been combined already
+Trying to remove small block #: block39
+Cannot find block block39, may have been combined already
+Trying to remove small block #: block40
+Cannot find block block40, may have been combined already
+Trying to remove small block #: block41
+   Actually removing small block #: block41
+Trying to remove small block #: block44
+   Actually removing small block #: block44
+Trying to remove small block #: block51
+   Actually removing small block #: block51
+Trying to remove small block #: block56
+   Actually removing small block #: block56
+Trying to remove small block #: block59
+   Actually removing small block #: block59
+Trying to remove small block #: block60
+   Actually removing small block #: block60
+Trying to remove small block #: block64
+   Actually removing small block #: block64
+Trying to remove small block #: block65
+   Actually removing small block #: block65
+Trying to remove small block #: block66
+   Actually removing small block #: block66
+Trying to remove small block #: block67
+   Actually removing small block #: block67
+Trying to remove small block #: block69
+Cannot find block block69, may have been combined already
+Trying to remove small block #: block71
+   Actually removing small block #: block71
+Trying to remove small block #: block72
+   Actually removing small block #: block72
+Trying to remove small block #: block74
+Cannot find block block74, may have been combined already
+Trying to remove small block #: block77
+   Actually removing small block #: block77
+Trying to remove small block #: block79
+   Actually removing small block #: block79
+Trying to remove small block #: block80
+Cannot find block block80, may have been combined already
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 16
+ 
+Removing blocks by interior angles.
+Trying to remove block #: block6
+   Not removing block #: block6.  No candidate segments.
+Trying to remove block #: block8
+   Not removing block #: block8.  No candidate segments.
+Trying to remove block #: block10
+   Not removing block #: block10.  No candidate segments.
+Trying to remove block #: block24
+   Working on removing block #: block24
+Warning: Not combining block block24 Exceedence not reduced or removes fault.
+Trying to remove block #: block28
+   Working on removing block #: block28
+Warning: Not combining block block28 Exceedence not reduced or removes fault.
+Trying to remove block #: block45
+   Not removing block #: block45.  No candidate segments.
+Trying to remove block #: block46
+   Not removing block #: block46.  No candidate segments.
+Trying to remove block #: block47
+   Not removing block #: block47.  No candidate segments.
+Trying to remove block #: block54
+   Working on removing block #: block54
+Warning: Not combining block block54 Exceedence not reduced or removes fault.
+Trying to remove block #: block55
+   Not removing block #: block55.  No candidate segments.
+Trying to remove block #: block57
+   Not removing block #: block57.  No candidate segments.
+Trying to remove block #: block62
+   Not removing block #: block62.  No candidate segments.
+Trying to remove block #: block78
+   Not removing block #: block78.  No candidate segments.
+Trying to remove block #: block81
+   Not removing block #: block81.  No candidate segments.
+Trying to remove block #: block82
+   Not removing block #: block82.  No candidate segments.
+Trying to remove block #: block83
+   Working on removing block #: block83
+Warning: Not combining block block83 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock14_block58
+   Working on removing block #: CBblock14_block58
+Warning: Not combining block CBblock14_block58 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock17_block36
+   Working on removing block #: CBblock17_block36
+Warning: Not combining block CBblock17_block36 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock18_block43
+   Working on removing block #: CBblock18_block43
+Warning: Not combining block CBblock18_block43 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock22_block63
+   Not removing block #: CBblock22_block63.  No candidate segments.
+Trying to remove block #: CBblock26_block29
+   Not removing block #: CBblock26_block29.  No candidate segments.
+Trying to remove block #: CBblock4_block27
+   Not removing block #: CBblock4_block27.  No candidate segments.
+Trying to remove block #: CBblock31_block50
+   Working on removing block #: CBblock31_block50
+Warning: Not combining block CBblock31_block50 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock33_block48
+   Not removing block #: CBblock33_block48.  No candidate segments.
+Trying to remove block #: CBblock34_block42
+   Working on removing block #: CBblock34_block42
+Warning: Not combining block CBblock34_block42 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock35_block40
+   Working on removing block #: CBblock35_block40
+Warning: Not combining block CBblock35_block40 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock41_CBblock37_block39
+   Working on removing block #: CBblock41_CBblock37_block39
+Warning: Not combining block CBblock41_CBblock37_block39 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock51_block52
+   Not removing block #: CBblock51_block52.  No candidate segments.
+Trying to remove block #: CBblock56_block61
+   Working on removing block #: CBblock56_block61
+Warning: Not combining block CBblock56_block61 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock60_CBblock59_CBblock19_block49
+   Working on removing block #: CBblock60_CBblock59_CBblock19_block49
+Warning: Not combining block CBblock60_CBblock59_CBblock19_block49 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock64_CBblock21_block68
+   Working on removing block #: CBblock64_CBblock21_block68
+Warning: Not combining block CBblock64_CBblock21_block68 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock67_block80
+   Not removing block #: CBblock67_block80.  No candidate segments.
+Trying to remove block #: CBblock71_CBblock13_block70
+   Working on removing block #: CBblock71_CBblock13_block70
+Warning: Not combining block CBblock71_CBblock13_block70 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock72_block74
+   Working on removing block #: CBblock72_block74
+Warning: Not combining block CBblock72_block74 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock77_CBblock23_block76
+   Working on removing block #: CBblock77_CBblock23_block76
+Warning: Not combining block CBblock77_CBblock23_block76 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock79_CBblock16_block38
+   Working on removing block #: CBblock79_CBblock16_block38
+Warning: Not combining block CBblock79_CBblock16_block38 Exceedence not reduced or removes fault.
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 17
+ 
+Removing blocks by Shape Parameter.
+Working on 1.00 blocks that have high R.
+Trying to remove high shape parameter block #: CBblock17_block36
+   Working on removing block #: CBblock17_block36
+   Testing exceedence on  seg #: 5
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 18
+ 
+Iterating to combine blocks to simplify model: 3
+ 
+ 
+Removing blocks by score.
+ 
+No need to remove any with score==0.
+ 
+Removing sliver boundary blocks.
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 19
+ 
+Removing blocks by size.
+Trying to remove small block #: block44
+   Actually removing small block #: block44
+Trying to remove small block #: block47
+   Actually removing small block #: block47
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 20
+ 
+Removing blocks by interior angles.
+Trying to remove block #: block2
+   Not removing block #: block2.  No candidate segments.
+Trying to remove block #: block4
+   Not removing block #: block4.  No candidate segments.
+Trying to remove block #: block6
+   Not removing block #: block6.  No candidate segments.
+Trying to remove block #: block8
+   Working on removing block #: block8
+Warning: Not combining block block8 Exceedence not reduced or removes fault.
+Trying to remove block #: block9
+   Working on removing block #: block9
+Warning: Not combining block block9 Exceedence not reduced or removes fault.
+Trying to remove block #: block12
+   Not removing block #: block12.  No candidate segments.
+Trying to remove block #: block13
+   Not removing block #: block13.  No candidate segments.
+Trying to remove block #: block14
+   Not removing block #: block14.  No candidate segments.
+Trying to remove block #: block16
+   Working on removing block #: block16
+Warning: Not combining block block16 Exceedence not reduced or removes fault.
+Trying to remove block #: block17
+   Not removing block #: block17.  No candidate segments.
+Trying to remove block #: block18
+   Not removing block #: block18.  No candidate segments.
+Trying to remove block #: block19
+   Not removing block #: block19.  No candidate segments.
+Trying to remove block #: block22
+   Not removing block #: block22.  No candidate segments.
+Trying to remove block #: block23
+   Not removing block #: block23.  No candidate segments.
+Trying to remove block #: block24
+   Not removing block #: block24.  No candidate segments.
+Trying to remove block #: block25
+   Working on removing block #: block25
+Warning: Not combining block block25 Exceedence not reduced or removes fault.
+Trying to remove block #: block27
+   Working on removing block #: block27
+Warning: Not combining block block27 Exceedence not reduced or removes fault.
+Trying to remove block #: block28
+   Working on removing block #: block28
+Warning: Not combining block block28 Exceedence not reduced or removes fault.
+Trying to remove block #: block30
+   Not removing block #: block30.  No candidate segments.
+Trying to remove block #: block32
+   Not removing block #: block32.  No candidate segments.
+Trying to remove block #: block33
+   Not removing block #: block33.  No candidate segments.
+Trying to remove block #: block34
+   Working on removing block #: block34
+Warning: Not combining block block34 Exceedence not reduced or removes fault.
+Trying to remove block #: block35
+   Not removing block #: block35.  No candidate segments.
+Trying to remove block #: block36
+   Working on removing block #: block36
+Warning: Not combining block block36 Exceedence not reduced or removes fault.
+Trying to remove block #: block37
+   Working on removing block #: block37
+Warning: Not combining block block37 Exceedence not reduced or removes fault.
+Trying to remove block #: block39
+   Not removing block #: block39.  No candidate segments.
+Trying to remove block #: block40
+   Working on removing block #: block40
+Warning: Not combining block block40 Exceedence not reduced or removes fault.
+Trying to remove block #: block41
+   Working on removing block #: block41
+Warning: Not combining block block41 Exceedence not reduced or removes fault.
+Trying to remove block #: block42
+   Working on removing block #: block42
+Warning: Not combining block block42 Exceedence not reduced or removes fault.
+Trying to remove block #: block46
+   Working on removing block #: block46
+Warning: Not combining block block46 Exceedence not reduced or removes fault.
+Trying to remove block #: block48
+   Working on removing block #: block48
+Warning: Not combining block block48 Exceedence not reduced or removes fault.
+Trying to remove block #: block49
+   Working on removing block #: block49
+Warning: Not combining block block49 Exceedence not reduced or removes fault.
+Trying to remove block #: block50
+   Working on removing block #: block50
+Warning: Not combining block block50 Exceedence not reduced or removes fault.
+Trying to remove block #: CBblock20_block44
+   Not removing block #: CBblock20_block44.  No candidate segments.
+Trying to remove block #: CBblock45_block47
+   Working on removing block #: CBblock45_block47
+Warning: Not combining block CBblock45_block47 Exceedence not reduced or removes fault.
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 21
+ 
+Removing blocks by Shape Parameter.
+Working on 1.00 blocks that have high R.
+Trying to remove high shape parameter block #: block50
+   Working on removing block #: block50
+   Testing exceedence on  seg #: 37
+Warning: Not combining block block50 RemoveBlock returned empty.
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+Plotting on Figure 22
+ 
+Number of Blocks small enough. Quitting this nonsense!
+ 
+Checking for Duplicate Nodes
+Node 99 is extremely close to node(s) 98
+Found duplicate nodes.
+ 
+Deleting Faults that are on the boundary
+ 
+Removing 3 segments to aviod block boundaries crossing geol faults.
+Plotting on Figure 23
+Plotting on Figure 24
+Checking for Duplicate Nodes
+Node 99 is extremely close to node(s) 98
+Found duplicate nodes.
+ 
+Checking for duplicate faults...
+  No duplicate faults!
+Checking for very shallow dips...
+  No faults with too shallow a dip.
+Checking for blocks and faults with non-existent node numbers....
+  All called nodes exist!
+Checking for faults not associated with blocks...
+  No illegal faults!
+Checking for faults with length==0
+  No zero length faults!
+ 
+Block   N       N      Area  Perim.   Shape    InteriorAngles 
+  #   Verts  Concave  (km^2)  (km)    Param.   Min(˚)  Max(˚) 
+  1     3       0     1425.2  173.6    1.3      53.3   71.0
+  2     8       3     1418.7  162.8    1.2      52.7  238.4
+  3    10       4      177.5   69.1    1.5      74.1  186.7
+  4     7       2      479.7   99.5    1.3      51.4  191.4
+  5     4       0      297.2   89.4    1.5      76.3  103.7
+  6     9       2      241.4   97.6    1.8      14.8  180.7
+  7     4       0      262.1   70.2    1.2      55.6  151.5
+  8    27      11     6015.9  340.6    1.2      78.5  251.2
+  9     7       2      373.1   83.6    1.2      73.0  184.0
+ 10     9       4      758.2  131.7    1.3      35.2  202.1
+ 11    22      13     1339.0  173.9    1.3      54.3  205.3
+ 12     6       1      198.1   81.6    1.6      27.1  201.5
+ 13     7       1      329.8   77.2    1.2      68.3  180.0
+ 14    21       8     3436.4  264.2    1.3      46.6  198.3
+ 15    12       4      434.3   90.5    1.2      44.6  206.7
+ 16    19       7     1207.1  150.1    1.2      77.2  198.2
+ 17    19       4      562.3  121.6    1.4      70.3  204.4
+ 18     7       0      388.5  106.1    1.5      27.7  178.6
+ 19    18       8      477.3  104.8    1.4      86.5  213.4
+ 20     8       1     1968.2  184.0    1.2      65.3  221.3
+ 21     8       1      929.0  131.3    1.2      72.2  200.2
+ 22    11       3      269.8   66.4    1.1      69.8  206.2
+ 23     7       1      260.3   64.6    1.1      76.6  185.8
+ 24    11       4      648.9  119.1    1.3      48.7  236.5
+ 25    14       2      902.3  124.7    1.2      64.5  242.9
+ 26    10       2      277.2   83.9    1.4      45.1  188.3
+ 27    13       5     1117.9  139.5    1.2      67.3  208.9
+ 28    11       3      478.9   94.2    1.2      73.3  180.1
+ 29     9       1      280.5   74.7    1.3      44.3  203.7
+ 30    12       5      975.7  126.4    1.1      71.4  197.5
+ 31     8       3      939.2  140.8    1.3      65.1  248.7
+ 32    25      11     2206.8  204.5    1.2      81.3  203.7
+ 33     7       1      258.6   70.3    1.2      49.7  251.9
+ 34    15       8      248.9   87.5    1.6      23.8  306.0
+ 35     5       0      415.6   93.0    1.3      39.9  173.3
+ 36    25       8     1845.1  240.3    1.6      69.4  211.4
+ 37     9       3      336.7   72.9    1.1      76.3  184.6
+ 38    11       2      723.9  114.5    1.2      39.0  273.6
+ 39    11       5      394.7   90.4    1.3      60.4  238.9
+ 40    11       5      257.8   96.1    1.7      54.0  283.4
+ 41    37      17     1056.8  232.3    2.0      29.1  221.8
+ 42    13       5      355.9   82.7    1.2      45.9  214.4
+ 43    26      13     1250.8  197.7    1.6      28.0  287.3
+ 44    23       9      497.2  138.7    1.8      76.6  281.6
+ 45    24      10     1077.2  184.4    1.6      76.5  226.6
